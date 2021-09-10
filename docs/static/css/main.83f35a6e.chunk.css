@@ -1,0 +1,2 @@
+*{font-family:Arial,Helvetica,sans-serif}body{padding:60px}input{color:grey;font-size:1.2rem;width:100%}.tarjeta{align-content:center;border:1px solid grey;border-radius:6px;margin-bottom:10px;margin-right:10px;overflow:hidden}.gridCartas{display:flex;flex-direction:row;flex-wrap:wrap}.tarjeta p{padding:5px;text-align:center;font-size:10px}.tarjeta img{max-height:160px;align-content:center}.tarjeta{animation-duration:2s}.cargando{animation-duration:4s}
+/*# sourceMappingURL=main.83f35a6e.chunk.css.map */
